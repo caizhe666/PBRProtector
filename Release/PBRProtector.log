@@ -1,0 +1,11 @@
+﻿  Disk.cpp
+  Main.cpp
+  MD5.cpp
+C:\Users\cz251\source\repos\PBRProtector\MD5.cpp(67,13): warning C4244: “初始化”: 从“double”转换到“unsigned int”，可能丢失数据
+C:\Users\cz251\source\repos\PBRProtector\MD5.cpp(87,13): warning C4244: “初始化”: 从“double”转换到“unsigned int”，可能丢失数据
+C:\Users\cz251\source\repos\PBRProtector\MD5.cpp(108,13): warning C4244: “初始化”: 从“double”转换到“unsigned int”，可能丢失数据
+C:\Users\cz251\source\repos\PBRProtector\MD5.cpp(129,13): warning C4244: “初始化”: 从“double”转换到“unsigned int”，可能丢失数据
+  TEST.cpp
+C:\Users\cz251\source\repos\PBRProtector\TEST.cpp(42,16): error C2065: “Temp”: 未声明的标识符
+  Threads.cpp
+  Checker.cpp
